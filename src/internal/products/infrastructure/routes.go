@@ -1,4 +1,3 @@
-// infrastructure/product_routes.go
 package infrastructure
 
 import (

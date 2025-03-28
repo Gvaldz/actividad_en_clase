@@ -1,4 +1,3 @@
-// controllers/get_discount_products_count_controller.go
 package controllers
 
 import (
